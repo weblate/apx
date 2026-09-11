@@ -1,7 +1,8 @@
+# bittin1ddc447d824349b2 <bittin@reimu.nl>, 2026.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-24 05:40+0000\n"
-"Last-Translator: Prefill add-on <noreply-addon-prefill@weblate.org>\n"
+"PO-Revision-Date: 2026-08-26 11:51+0000\n"
+"Last-Translator: bittin1ddc447d824349b2 <bittin@reimu.nl>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/vanilla-os/apx/"
 "sv/>\n"
 "Language: sv\n"
@@ -326,9 +327,8 @@ msgid "apx.msg.version"
 msgstr "Visa version av apx."
 
 #, fuzzy
-#| msgid "apx.cmd.subsystem.remove"
 msgid "apx.subsystem.dev"
-msgstr "Ta bort det specificerade paketen."
+msgstr "apx.subsystem.dev"
 
 #, fuzzy
 #| msgid "apx.cmd.subsystem.start"
